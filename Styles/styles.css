@@ -5,6 +5,8 @@
   font-variation-settings:
     "wdth" 100;
 }
+/* First-part */
+
 /* shared style */
 
 .text-primary{
@@ -76,4 +78,18 @@ nav li a{
 }
 .banner-content{
   max-width: 580px;
+}
+
+/* Second-part */
+.section-title{
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+}
+.section-description{
+  font-size: 18px;
+  color: #757575;
+}
+.secondary-bg{
+  background-color: #FFF8F3;
 }
